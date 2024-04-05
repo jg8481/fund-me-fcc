@@ -100,7 +100,7 @@ contract FundMe {
         // This will use a for-loop.
         // It will use the address[] array and loop through it this way...
         // [a, b, c, d] <-- The values inside the array.
-        //  0. 1. 3. 4. <-- The for-loop will iterate over these index poistions.
+        //  0. 1. 3. 4. <-- The for-loop will iterate over these index postions.
 
         // Anatomy of the for-loop keyword...
         // for(/* starting index, ending index, step amount */)
