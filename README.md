@@ -1,4 +1,4 @@
-These are my notes while working on this Solidity course section.
+These are my notes while working on [Patrick's Javascript Blockchain/Smart Contract FreeCodeCamp Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ).
 
 - On April 3, 2024 successfully compiled and deployed the following "fund and getPrice etc." example code. 
   - **Note to self:** For today I stopped at [4:25 in Patrick's YouTube course video](https://youtu.be/gyMwXuJrbJQ?t=15902).
